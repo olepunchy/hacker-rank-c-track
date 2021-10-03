@@ -13,7 +13,6 @@ int main(void) {
     }
 
     for (int index = 0; index < numberOfElements; index++) {
-        /* printf("%d\n", arrayOfElements[index]); */
         total += arrayOfElements[index];
     }
 
